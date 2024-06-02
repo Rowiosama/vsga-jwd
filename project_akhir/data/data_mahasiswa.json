@@ -1,0 +1,18 @@
+[
+    {
+        "nim": "1",
+        "nama": "A",
+        "alamat": "Jakarta",
+        "notelpn": "089509344334",
+        "jeniskelamin": "perempuan",
+        "email": "rowiosama13@gmail.com",
+        "tempatlahir": "Bandung",
+        "jurusan": "Teknik Informatika",
+        "tanggallahir": "2002-12-15",
+        "matakuliah": "Pemrograman Web",
+        "agama": "Islam",
+        "nilai": "80",
+        "nh": "C",
+        "ket": "Lulus"
+    }
+]
